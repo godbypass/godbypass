@@ -1,6 +1,5 @@
 ## About Me:
-Hey, I’m one of the owners of NiceGen. I mess around with Python, HTML, and CSS. I’m not a coding wizard or anything, but I can make stuff that actually works (most of the time). I’m usually just figuring things out as I go, building random projects, and hoping nothing breaks.
-
+mentally ill sigma male who uses Cursor to code stuff bc im lazy
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nicegen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@leakedbypass) 
