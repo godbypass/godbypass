@@ -1,6 +1,6 @@
 Minecraft cheater i guess
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@missingjava) 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="400"/>
 </p>
 
