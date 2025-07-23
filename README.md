@@ -7,6 +7,5 @@ Minecraft cheater i guess
 ![](https://github-readme-streak-stats.herokuapp.com/?user=godbypass&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=godbypass&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-trophies.vercel.app/?username=godbypass&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=godbypass&icon=2&color=4)](https://visitcount.itsvg.in)
